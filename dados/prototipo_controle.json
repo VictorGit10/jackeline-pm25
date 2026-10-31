@@ -1,0 +1,70 @@
+{
+  "periodo": [
+    "2024-09-19",
+    "2025-12-31"
+  ],
+  "ponto": {
+    "nome": "Fercal",
+    "lat": -15.5955,
+    "lon": -47.8566
+  },
+  "piso_n_px": 20,
+  "registros_granulo_ponto": 1315,
+  "registros_com_zero_pixel": 884,
+  "fracao_descartada_pela_mascara": 0.672,
+  "linhas_validas": 931,
+  "n_px": {
+    "todos": {
+      "min": 0.0,
+      "mediana": 0.0,
+      "media": 48.07,
+      "max": 304.0549
+    },
+    "Terra": {
+      "min": 0.0,
+      "mediana": 0.0,
+      "media": 73.028,
+      "max": 304.0549
+    },
+    "Aqua": {
+      "min": 0.0,
+      "mediana": 0.0,
+      "media": 25.6,
+      "max": 304.0549
+    }
+  },
+  "aod": {
+    "Terra": {
+      "min": 0.0031,
+      "mediana": 0.08,
+      "media": 0.111,
+      "max": 0.4402
+    },
+    "Aqua": {
+      "min": 0.0045,
+      "mediana": 0.1,
+      "media": 0.119,
+      "max": 0.5594
+    }
+  },
+  "hora_local": {
+    "Terra": {
+      "min": "08:00",
+      "media": "09:21",
+      "max": "10:40"
+    },
+    "Aqua": {
+      "min": "13:25",
+      "media": "14:57",
+      "max": "16:30"
+    }
+  },
+  "pm25": {
+    "dias_com_pm25_horario": 355,
+    "dias_pm25_dia_18h": 134,
+    "dias_pm25_dia_12h": 243,
+    "primeiro_registro": "2024-09-19 00:00:00",
+    "ultimo_registro": "2025-12-31 13:00:00"
+  },
+  "focos": "soma de pixels de fogo de 1 km do produto FIRMS NRT (nao e contagem de deteccoes)"
+}

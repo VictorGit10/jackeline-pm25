@@ -1,0 +1,14 @@
+  ok 10.1021/es049352m (0.81) Estimating Ground-Level PM2.5 in the Eastern United States Using Satel
+  ok 10.1289/ehp.0901623 (0.82) Global Estimates of Ambient Fine Particulate Matter Concentrations fro
+  ok 10.1016/j.rse.2013.08.032 (1.00) Estimating ground-level PM2.5 concentrations in the Southeastern Unite
+  ok 10.1016/j.apr.2019.08.003 (0.88) Satellite AOD conversion into ground PM10, PM2.5 and PM1 over the Po v
+  ok 10.1016/j.atmosenv.2017.07.054 (1.00) An intercomparison of AOD-converted PM2.5 concentrations using differe
+  ok 10.1016/j.atmosenv.2020.117329 (0.90) Aerosol vertical profile variations with seasons, air mass movements a
+  ok 10.1007/s40726-019-00124-5 (1.00) Interaction Between Planetary Boundary Layer and PM2.5 Pollution in Me
+  ok 10.1016/j.atmosenv.2018.03.057 (1.00) Development of non-linear models predicting daily fine particle concen
+  ok 10.1016/j.atmosenv.2023.120130 (1.00) Evaluation and comparison of MODIS aerosol optical depth retrieval alg
+  ok 10.5194/amt-11-5741-2018 (1.00) MODIS Collection 6 MAIAC algorithm
+  ok 10.1175/2010BAMS3009.1 (1.00) The CALIPSO Mission
+  ok 10.5194/amt-17-5301-2024 (1.00) The EarthCARE lidar cloud and aerosol profile processor (A-PRO): the A
+
+12 referências conferidas -> REFERENCIAS.md

@@ -1,0 +1,50 @@
+1) PM2,5 horario do DF (MonitorAr 2024+2025)
+  -> dados\pm25_fercal_horario.csv  (6660 linhas)
+  -> dados\pm25_fercal_diario.csv  (355 linhas)
+  6660 registros horarios; 355 dias; estacoes: ['Estação CRAS FERCAL', 'Estação Escola']
+2) AOD MAIAC (Terra e Aqua), ERA5 e FIRMS no ponto Fercal
+  recortes: 19
+    AOD 2024-09-19..2024-10-14: 72 registros
+    AOD 2024-10-14..2024-11-08: 70 registros
+    AOD 2024-11-08..2024-12-03: 71 registros
+    AOD 2024-12-03..2024-12-28: 68 registros
+    AOD 2024-12-28..2025-01-22: 71 registros
+    AOD 2025-01-22..2025-02-16: 73 registros
+    AOD 2025-02-16..2025-03-13: 71 registros
+    AOD 2025-03-13..2025-04-07: 69 registros
+    AOD 2025-04-07..2025-05-02: 70 registros
+    AOD 2025-05-02..2025-05-27: 69 registros
+    AOD 2025-05-27..2025-06-21: 71 registros
+    AOD 2025-06-21..2025-07-16: 68 registros
+    AOD 2025-07-16..2025-08-10: 72 registros
+    AOD 2025-08-10..2025-09-04: 72 registros
+    AOD 2025-09-04..2025-09-29: 71 registros
+    AOD 2025-09-29..2025-10-24: 66 registros
+    AOD 2025-10-24..2025-11-18: 67 registros
+    AOD 2025-11-18..2025-12-13: 74 registros
+    AOD 2025-12-13..2025-12-31: 50 registros
+    ERA5 2024-09-19..2024-10-14: 72 horas
+    ERA5 2024-10-14..2024-11-08: 70 horas
+    ERA5 2024-11-08..2024-12-03: 71 horas
+    ERA5 2024-12-03..2024-12-28: 68 horas
+    ERA5 2024-12-28..2025-01-22: 71 horas
+    ERA5 2025-01-22..2025-02-16: 73 horas
+    ERA5 2025-02-16..2025-03-13: 71 horas
+    ERA5 2025-03-13..2025-04-07: 69 horas
+    ERA5 2025-04-07..2025-05-02: 70 horas
+    ERA5 2025-05-02..2025-05-27: 69 horas
+    ERA5 2025-05-27..2025-06-21: 71 horas
+    ERA5 2025-06-21..2025-07-16: 68 horas
+    ERA5 2025-07-16..2025-08-10: 72 horas
+    ERA5 2025-08-10..2025-09-04: 72 horas
+    ERA5 2025-09-04..2025-09-29: 71 horas
+    ERA5 2025-09-29..2025-10-24: 66 horas
+    ERA5 2025-10-24..2025-11-18: 67 horas
+    ERA5 2025-11-18..2025-12-13: 74 horas
+    ERA5 2025-12-13..2025-12-31: 50 horas
+    FIRMS: 468 dias
+  -> dados\prototipo_integrado.csv  (1315 linhas)
+  -> dados\prototipo_integrado_diario.csv  (931 linhas)
+
+Figura: figuras\prototipo_integrado.png
+Controle: {"registros_granulo_ponto": 1315, "registros_com_zero_pixel": 884, "fracao_descartada_pela_mascara": 0.672, "hora_local": {"Terra": {"min": "08:00", "media": "09:21", "max": "10:40"}, "Aqua": {"min": "13:25", "media": "14:57", "max": "16:30"}}}

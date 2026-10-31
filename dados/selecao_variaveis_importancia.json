@@ -1,0 +1,17 @@
+{
+  "importancia_grupos_delta_r2": {
+    "AOD": 0.2435,
+    "vertical": 0.4678,
+    "meteorologia": 0.3249
+  },
+  "escolhas_por_dobra": [
+    "AOD + vertical + meteorologia",
+    "AOD + vertical + meteorologia",
+    "AOD + vertical + meteorologia",
+    "AOD + vertical + meteorologia",
+    "AOD + vertical + meteorologia",
+    "AOD + vertical + meteorologia"
+  ],
+  "n": 166,
+  "alvo": "pm25_hora"
+}

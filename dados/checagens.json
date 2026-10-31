@@ -1,0 +1,198 @@
+{
+  "calipso": {
+    "Goiania": {
+      "fracao_noturna_25km": 0.579,
+      "n_25km": 484,
+      "fracao_noturna_50km": 0.494,
+      "n_50km": 620,
+      "n_5km": 154,
+      "razao_5km_goiania_sobre_brasilia": null
+    },
+    "Brasilia": {
+      "fracao_noturna_25km": 0.127,
+      "n_25km": 259,
+      "fracao_noturna_50km": 0.479,
+      "n_50km": 589,
+      "n_5km": 9,
+      "razao_5km_goiania_sobre_brasilia": null
+    },
+    "razao_5km": 17.2
+  },
+  "prototipo": {
+    "linhas_granulo": 1315,
+    "linhas_diarias": 931,
+    "aod": {
+      "Terra": {
+        "min": 0.0031,
+        "max": 0.4402
+      },
+      "Aqua": {
+        "min": 0.0045,
+        "max": 0.5594
+      }
+    },
+    "n_px": {
+      "mediana_todos_os_dias": {
+        "Terra": 264.9294117647059,
+        "Aqua": 25.070588235294117
+      },
+      "mediana_dias_com_pm_hora": {
+        "Terra": 295.0549019607844,
+        "Aqua": 32.662745098039224
+      },
+      "pct_abaixo_20": {
+        "Terra": 0.129,
+        "Aqua": 0.466
+      },
+      "pct_abaixo_50": {
+        "Terra": 0.173,
+        "Aqua": 0.617
+      }
+    },
+    "registros_zero_pixel": 884,
+    "fracao_descartada": 0.672,
+    "hora_local": {
+      "Terra": {
+        "min": "08:00",
+        "media": "09:21",
+        "max": "10:40"
+      },
+      "Aqua": {
+        "min": "13:25",
+        "media": "14:57",
+        "max": "16:30"
+      }
+    }
+  },
+  "sensibilidade_n_px": [
+    {
+      "piso_n_px": 0,
+      "satelite": "Aqua",
+      "n": 106,
+      "r_aod_pm_hora": 0.28,
+      "r_aodblh_pm_hora": 0.174
+    },
+    {
+      "piso_n_px": 0,
+      "satelite": "Terra",
+      "n": 120,
+      "r_aod_pm_hora": 0.271,
+      "r_aodblh_pm_hora": 0.188
+    },
+    {
+      "piso_n_px": 20,
+      "satelite": "Aqua",
+      "n": 58,
+      "r_aod_pm_hora": 0.353,
+      "r_aodblh_pm_hora": 0.217
+    },
+    {
+      "piso_n_px": 20,
+      "satelite": "Terra",
+      "n": 108,
+      "r_aod_pm_hora": 0.271,
+      "r_aodblh_pm_hora": 0.194
+    },
+    {
+      "piso_n_px": 50,
+      "satelite": "Aqua",
+      "n": 42,
+      "r_aod_pm_hora": 0.321,
+      "r_aodblh_pm_hora": 0.158
+    },
+    {
+      "piso_n_px": 50,
+      "satelite": "Terra",
+      "n": 103,
+      "r_aod_pm_hora": 0.295,
+      "r_aodblh_pm_hora": 0.2
+    }
+  ],
+  "controle_qa": [
+    {
+      "satelite": "Aqua",
+      "n": 58,
+      "r_aod_com_qa": 0.353,
+      "r_aod_sem_qa": 0.322,
+      "deslocamento_nivel_pct": -6.0
+    },
+    {
+      "satelite": "Terra",
+      "n": 108,
+      "r_aod_com_qa": 0.271,
+      "r_aod_sem_qa": 0.268,
+      "deslocamento_nivel_pct": -1.98
+    }
+  ],
+  "aqua_terra": {
+    "pareado": {
+      "dias_comuns_com_pm_hora": 35,
+      "r_aqua": 0.22,
+      "r_terra": 0.088
+    },
+    "blh_m": {
+      "todos": {
+        "Aqua": 2028.0,
+        "Terra": 827.0
+      },
+      "dias_comuns": {
+        "Aqua": 2169.0,
+        "Terra": 781.0
+      }
+    },
+    "dias_aqua": 110,
+    "dias_terra": 196,
+    "dias_comuns": 80
+  },
+  "blh_relacoes": {
+    "blh_aod": {
+      "Aqua": {
+        "r": 0.325,
+        "n": 110
+      },
+      "Terra": {
+        "r": 0.301,
+        "n": 196
+      }
+    },
+    "blh_pm_hora": {
+      "Aqua": {
+        "r": 0.389,
+        "n": 58
+      },
+      "Terra": {
+        "r": 0.051,
+        "n": 108
+      }
+    },
+    "blh_pm_dia18": {
+      "Aqua": {
+        "r": 0.521,
+        "n": 37
+      },
+      "Terra": {
+        "r": 0.117,
+        "n": 70
+      }
+    }
+  },
+  "distancias_km": {
+    "Fercal_CRAS_ao_ponto": 1.62,
+    "Escola_ao_ponto": 1.61,
+    "Fercal_CRAS_ao_centro_Brasilia": 21.46,
+    "Escola_ao_centro_Brasilia": 23.09
+  },
+  "validacao": {
+    "blocos de tempo": 5,
+    "por estacao": 4,
+    "sorteando linhas (errado)": 5,
+    "blocos de tempo, com calendario": 5,
+    "blocos de tempo, sem calendario": 5,
+    "por estacao, com calendario": 4,
+    "por estacao, sem calendario": 4,
+    "blocos de tempo, sem a simulacao": 5,
+    "blocos de tempo, com a simulacao": 5,
+    "importancia (sem a simulacao)": 1,
+    "importancia (com a simulacao)": 1
+  }
+}

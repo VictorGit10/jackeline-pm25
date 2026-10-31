@@ -1,0 +1,5 @@
+uf,estacao,municipio,id_estacao,lat,lon,fonte,ano,n_registros,inicio,fim,poluentes,mede_pm25_provavel
+DF,Estação CRAS FERCAL,Brasília,139853,-15.601292,-47.870440,N/A,2024,12201,2024-08-14 00:00:00,2024-12-31 20:00:00,"Dióxido de Enxofre; Dióxido de Nitrogênio; Material Particulado com diâmetro de até 10 μm; Material Particulado com diâmetro de até 2,5 μm; Material particulado; Monóxido de Carbono; Ozônio",True
+DF,Estação Escola,Brasília,139854,-15.589824,-47.842796,N/A,2024,3503,2024-08-14 12:00:00,2024-12-31 13:00:00,"Material Particulado com diâmetro de até 10 μm; Material Particulado com diâmetro de até 2,5 μm; Material particulado",True
+DF,Estação Escola,Brasília,139854,-15.779722,-47.929722,Ibram,2025,7675,2025-01-01 00:00:00,2025-12-30 19:00:00,"Material Particulado com diâmetro de até 10 μm; Material Particulado com diâmetro de até 2,5 μm",True
+DF,Estação CRAS FERCAL,Brasília,139853,-15.779722,-47.929722,Ibram,2025,32772,2025-01-01 00:00:00,2025-12-31 21:00:00,"Dióxido de Enxofre; Dióxido de Nitrogênio; Material Particulado com diâmetro de até 10 μm; Material Particulado com diâmetro de até 2,5 μm; Monóxido de Carbono; Ozônio",True

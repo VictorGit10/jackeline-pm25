@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Se reutilizar este trabalho, cite como abaixo."
+title: "Do formulário à base integrada — AOD, perfil vertical e PM2,5"
+abstract: >-
+  Quanto perfil vertical (CALIOP) e PM2,5 público existem em Goiás e no DF, e um protótipo que integra MAIAC, ERA5 e FIRMS com controles.
+authors:
+  - family-names: "Amaral"
+    given-names: "Victor"
+    affiliation: "LAPIG/UFG"
+date-released: 2026-10-31
+url: "https://victorgit10.github.io/jackeline-pm25/"
+repository-code: "https://github.com/VictorGit10/jackeline-pm25"
+license: CC-BY-4.0
+keywords:
+  - "PM2,5"
+  - "AOD"
+  - "MAIAC"
+  - "CALIOP"
+  - "ERA5"
+  - "camada limite"
+  - "IA generativa"

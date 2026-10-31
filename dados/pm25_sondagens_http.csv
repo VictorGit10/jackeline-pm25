@@ -1,0 +1,10 @@
+fonte,url,http,bytes
+OpenAQ v3 (locations),"https://api.openaq.org/v3/locations?coordinates=-16.68,-49.25&radius=50000&limit=5",401,86
+OpenAQ v2 (aposentada),"https://api.openaq.org/v2/locations?coordinates=-16.68,-49.25&radius=50000&limit=5",410,134
+MMA - lista de conjuntos,https://dados.mma.gov.br/api/3/action/package_show?id=ar-puro-monitorar,200,8027
+SEMAD-GO - estacoes de qualidade do ar,https://goias.gov.br/meioambiente/estacoes-de-monitoramento-da-qualidade-do-ar/,200,149758
+SEMAD-GO - ultimos dados (pagina),https://goias.gov.br/meioambiente/ultimos-dados-do-monitoramento-da-qualidade-do-ar/,200,150507
+Cimehgo - lista de estacoes (API publica),https://intratempo.meioambiente.go.gov.br/api/public_cimehgo,200,4761
+Cimehgo - serie horaria de uma estacao,https://intratempo.meioambiente.go.gov.br/api/cimehgo/EC30154A?start_time=2026-10-01%2000:00&end_time=2026-10-02%2023:00,200,3
+IBRAM-DF - portal ONDA (ArcGIS),https://onda.ibram.df.gov.br/portal/apps/mapviewer/index.html,200,5973
+Sensor.Community (baixo custo),"https://data.sensor.community/airrohr/v1/filter/box=-50.0,-17.3,-48.5,-16.2",200,2

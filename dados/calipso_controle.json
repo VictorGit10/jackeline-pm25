@@ -1,0 +1,46 @@
+{
+  "produto": "CAL_LID_L2_05kmAPro",
+  "versao": "V5-00",
+  "collection_concept_id": "C3551627908-LARC_CLOUD",
+  "ultimo_granulo_utc": "2023-06-30T21:39:53+00:00",
+  "anos": [
+    2006,
+    2023
+  ],
+  "n_granulos_na_caixa": 3705,
+  "n_eventos_deduplicados": 3705,
+  "n_eventos_por_ponto": {
+    "Brasilia": 1755,
+    "Goiania": 1950
+  },
+  "n_5km": {
+    "Brasilia": 9,
+    "Goiania": 154
+  },
+  "n_25km": {
+    "Brasilia": 259,
+    "Goiania": 484
+  },
+  "n_50km": {
+    "Brasilia": 589,
+    "Goiania": 620
+  },
+  "fracao_noite_50km": 0.48717948717948717,
+  "fracao_noite_25km": 0.42126514131897713,
+  "controle_distancia_km_max_abs": 1.1854727870222002,
+  "controle_distancia_km_mediana_abs": 0.575558602227507,
+  "grade_orbital": {
+    "Goiania_espacamento_grade_km": 164.8,
+    "Goiania_media_por_ano_se_aleatorio_25km": 13.9,
+    "Goiania_media_por_ano_se_aleatorio_50km": 27.7,
+    "Brasilia_espacamento_grade_km": 165.5,
+    "Brasilia_media_por_ano_se_aleatorio_25km": 13.8,
+    "Brasilia_media_por_ano_se_aleatorio_50km": 27.6
+  },
+  "intervalo_entre_passagens_dias": {
+    "Goiania_noite_dias_mediana": 16.0,
+    "Goiania_dia_dias_mediana": 16.0,
+    "Brasilia_noite_dias_mediana": 16.0,
+    "Brasilia_dia_dias_mediana": 16.0
+  }
+}

@@ -1,0 +1,12 @@
+esquema,r2_medio,r2_por_fold,n
+blocos de tempo,0.612,0.61; 0.58; 0.66; 0.72; 0.49,
+por estacao,0.941,0.92; 0.95; 0.94; 0.95,
+sorteando linhas (errado),0.948,0.95; 0.96; 0.95; 0.94; 0.94,
+"blocos de tempo, com calendario",0.612,0.61; 0.58; 0.66; 0.72; 0.49,720.0
+"blocos de tempo, sem calendario",0.621,0.61; 0.58; 0.66; 0.78; 0.49,720.0
+"por estacao, com calendario",0.941,0.92; 0.95; 0.94; 0.95,720.0
+"por estacao, sem calendario",0.94,0.92; 0.95; 0.94; 0.95,720.0
+"blocos de tempo, sem a simulacao",0.612,0.61; 0.58; 0.66; 0.72; 0.49,
+"blocos de tempo, com a simulacao",0.845,0.88; 0.87; 0.88; 0.92; 0.68,
+importancia (sem a simulacao),,"aod=0.96, blh=0.01, cos_ano=0.01",
+importancia (com a simulacao),,"pm_sim=0.99, aod=0.00, umidade=0.00",

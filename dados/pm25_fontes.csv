@@ -1,0 +1,6 @@
+fonte,uf,produto,estacoes_go_df,periodo,acesso,verificado
+MonitorAr (MMA),Brasil,"CSV anual por estacao, todos os poluentes","2 estacoes (DF, 2024-2025)",2022-2025 (ZIPs anuais),"aberto, sem login (dados.mma.gov.br)","sim, download e leitura neste script"
+SEMAD-GO / Cimehgo,GO,paginas de qualidade do ar e boletins; API do Cimehgo so meteorologia,rede em Goiania/Aparecida/Senador Canedo (nomes no arquivo cimehgo_estacoes_goiania_metro.csv),nao informado nas paginas (atualizacao de 2021),sem download; serie horaria nao respondeu para as datas testadas,"sim, HTTP e conteudo das paginas"
+IBRAM-DF (ONDA),DF,portal ArcGIS com camadas ambientais,nao listado publicamente,nao informado,exige conta ArcGIS (login),"sim, o portal devolve tela de login"
+OpenAQ,Brasil,"agregador de redes, API v3",nao consultavel sem chave,depende da fonte original,exige chave de API (X-API-Key),"sim, HTTP 401 sem chave"
+Sensor.Community,GO/DF,"sensores de baixo custo (PM2,5 por laser)",0 na caixa consultada,"tempo real, sem historico garantido","aberto, sem login","sim, consulta a API"

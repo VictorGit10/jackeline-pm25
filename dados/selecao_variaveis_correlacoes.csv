@@ -1,0 +1,5 @@
+satelite,alvo,n,spearman_aod,spearman_aod_blh
+Aqua,pm25_hora,58,0.353,0.217
+Aqua,pm25_dia18,37,0.234,0.111
+Terra,pm25_hora,108,0.271,0.194
+Terra,pm25_dia18,70,0.458,0.393
